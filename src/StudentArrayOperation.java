@@ -23,7 +23,7 @@ public interface StudentArrayOperation {
 	 * 
 	 * @throws IllegalArgumentException
 	 */
-	void setStudents(Student[] students)
+	void setStudents(Student[] students);
 	
 
 	/**
